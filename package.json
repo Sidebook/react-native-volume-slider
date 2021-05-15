@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/IFours/react-native-volume-slider.git"
+    "url": "git+https://github.com/Sidebook/react-native-volume-slider.git"
   },
   "keywords": [
     "react-native",
