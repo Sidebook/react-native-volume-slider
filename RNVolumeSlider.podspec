@@ -4,7 +4,7 @@ package = JSON.parse(File.read(File.join(__dir__, 'package.json')))
 
 Pod::Spec.new do |s|
   s.name           = 'RNVolumeSlider'
-  s.author         = package['author']
+  s.authors        = package['author']
   s.version        = package['version']
   s.summary        = package['summary']
   s.description    = package['description']
